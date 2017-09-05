@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
-    "database": "dev",
-    "password": "12345678",
+    "host": "ds125774.mlab.com",
+    "port": 25774,
+    "database": "nandini",
+    "password": "admin123",
     "name": "db",
     "connector": "mongodb",
-    "user": "superuser"
+    "user": "dbadmin"
   },
   "transient": {
     "name": "transient",
