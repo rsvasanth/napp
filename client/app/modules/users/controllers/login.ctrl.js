@@ -49,11 +49,6 @@
           attr: {
             required: true
           }
-        },
-        {
-          property: 'rememberMe',
-          label: gettextCatalog.getString('Stay signed in'),
-          type: 'checkbox'
         }
       ];
 
