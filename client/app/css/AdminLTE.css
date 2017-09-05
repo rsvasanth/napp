@@ -211,7 +211,7 @@ img {
   background-color: #f56954 !important;
 }
 .bg-yellow {
-  background-color: #f39c12 !important;
+  background-color: #c5c1b9 !important;
 }
 .bg-aqua {
   background-color: #00c0ef !important;
@@ -232,7 +232,7 @@ img {
   background-color: #39cccc !important;
 }
 .bg-olive {
-  background-color: #3d9970 !important;
+  background-color: #3A385B !important;
 }
 .bg-lime {
   background-color: #01ff70 !important;
@@ -2287,13 +2287,13 @@ Component: timeline
   border-top-right-radius: 4px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  background: #3d9970;
+  background: #ffffff;
   box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.2);
   padding: 20px 10px;
   text-align: center;
   font-size: 26px;
   font-weight: 300;
-  color: #fff;
+  color: #a9a4a4;
 }
 .form-box .body,
 .form-box .footer {

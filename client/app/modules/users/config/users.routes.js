@@ -9,11 +9,7 @@
           template: '<login></login>',
           controller: 'LoginCtrl'
         })
-        .state('register', {
-          url: '/register',
-          template: '<register></register>',
-          controller: 'RegisterCtrl'
-        })
+  
         .state('app.users', {
           abstract: true,
           url: '/users',
